@@ -1,7 +1,7 @@
 package loteria;
 
 public class Loteria {
-
+//compartir version 2 en github
 	public static void main(String[] args) {
 		
 	
