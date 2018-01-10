@@ -12,7 +12,7 @@ public class DadoElectronico {
 		}
 		for(int i=0;i<contadores.length;i++) {
 			System.out.println("Porcentaje de "+(i+1)+":"+ contadores[i]*100.0/tiradas);
-			System.out.println("Gracias");
+			System.out.println("Tercer cambio");
 		}
 	}
 		
