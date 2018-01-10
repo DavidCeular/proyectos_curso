@@ -1,7 +1,7 @@
 package loteria;
 //prueba github
 public class Loteria {
-//compartir version 3 en github
+//compartir version nuevo cambio 4 en github
 	public static void main(String[] args) {
 		
 	
