@@ -1,5 +1,6 @@
 package principal;
 //lo subo a github
+//borro contraseña
 import java.util.Scanner;
 
 import modelo.GestionNotas;
